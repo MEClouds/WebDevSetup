@@ -19,3 +19,25 @@ go to keyborad shortcut json in vs code [ (ctr + shft +p) & search for (keyboard
 	}`
  
 ---
+
+
+## Add Extentsions 
+1. prettier
+2. ES7 react
+3. brackets 
+4. live server
+5. Bracket Pair Colorizer
+
+
+## change json setting 
+## Add the following lines
+
+`    "editor.formatOnSave": false,  
+    "emmet.includeLanguages": {
+        "javascript":"javascriptreact"
+    },
+    "emmet.syntaxProfiles": {
+        "javascript":"jsx",
+        "javascript":"html"
+    }
+`
