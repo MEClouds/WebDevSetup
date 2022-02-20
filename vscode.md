@@ -6,6 +6,7 @@ go to keyborad shortcut json in vs code [ (ctr + shft +p) & search for (keyboard
 
 #add the following :
 
+
 `   {
 		"key": "ctrl+down",
 		"command": "explorer.newFile",
