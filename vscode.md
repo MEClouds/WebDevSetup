@@ -40,4 +40,8 @@ go to keyborad shortcut json in vs code [ (ctr + shft +p) & search for (keyboard
         "javascript":"jsx",
         "javascript":"html"
     }
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "[javascript]": {
+          "editor.defaultFormatter": "esbenp.prettier-vscode"
+        }
 `
